@@ -1,0 +1,10 @@
+__pycache__
+/build
+/dist
+/output
+*~
+/wikimunge.egg-info
+/pyvenv.cfg
+/lib
+/lib64
+/bin
